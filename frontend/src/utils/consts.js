@@ -1,0 +1,8 @@
+export const HOME_ROUTE = '/'
+export const CONTACT_US_ROUTE = '/contacts'
+export const CALCULATOR_ROUTE = '/calculator'
+export const PRICES_ROUTE = '/prices'
+export const AUTHORIZATION_ROUTE = '/authorization'
+export const ACCOUNT_ROUTE = '/account'
+export const ORDERS_ROUTE = '/orders'
+export const ORDERS_CHECKOUT_ROUTE = '/orders/checkout'
